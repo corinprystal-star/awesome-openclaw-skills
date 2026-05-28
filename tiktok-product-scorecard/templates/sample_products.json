@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Product Name Here",
+    "category": "Home & Kitchen",
+    "scores": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "notes": [
+      "Hook Potential: [why this score]",
+      "Problem Solving: [why this score]",
+      "Demonstrability: [why this score]",
+      "USP: [why this score]",
+      "Creator Compatibility: [why this score]",
+      "Content Angle Depth: [why this score]",
+      "Price & Margin: [why this score]",
+      "Operational Simplicity: [why this score]",
+      "Emotional & Social Proof: [why this score]",
+      "Market Timing: [why this score]"
+    ]
+  }
+]
